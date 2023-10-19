@@ -5,12 +5,6 @@ It will contain the old files and the file structure for the time being.
 
 The folder layout and the way the project builds are bound to change a lot.
 
-Note that the watchdog will timeout after a minute and reboot the phone. I'll keep that for now as it's convinient.
-
-
-| ![IMG_20230909_211830](https://github.com/TAOcroatia/edk2-tensor/assets/34100820/fda6cfe4-c227-48e2-acb1-f5ffc232818e)  | ![IMG_20230909_211838](https://github.com/TAOcroatia/edk2-tensor/assets/34100820/c53d72fa-ca90-4c11-b3aa-984fd269efc2) | ![IMG_20230909_211841](https://github.com/TAOcroatia/edk2-tensor/assets/34100820/a8c38a8d-34a5-419c-a4b6-22ccb0019f68)  | ![IMG_20230909_211902](https://github.com/TAOcroatia/edk2-tensor/assets/34100820/cb442744-7e25-413c-b2de-ab99aa6373b1) |
-| ------------- | ------------- | ------------- | ------------- |
-
 ## Enabling PStore debugging 
 Run the following commands:
 ```
